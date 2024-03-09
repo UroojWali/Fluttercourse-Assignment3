@@ -6,7 +6,7 @@ void main() {
     print("positive");
   } else if (num > 0) {
     /////// true
-    print(" negative ");
+    print("negative");
   } else {
     print(" zero ");
   }
